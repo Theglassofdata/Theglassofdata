@@ -14,7 +14,7 @@ I'm a passionate **Data Engineer** with expertise in building scalable data pipe
 - Programming: Python, SQL, R
 - Cloud: Azure, AWS
 - Visualization: Tableau, Power BI
-- Tools: Git, Airflow, Spark
+- Tools: Git,Spark,Hadoop,Hive,CI/CD,Airflow,Kafka
 
 ### 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/rahul-raj-a1703320b/)  
