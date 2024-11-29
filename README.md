@@ -17,7 +17,7 @@ I'm a passionate **Data Engineer** with expertise in building scalable data pipe
 - Tools: Git, Airflow, Spark
 
 ### 🌐 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/rahul-raj-a1703320b/)  
 - [GitHub](https://github.com/Theglassofdata)
 
 <!--
