@@ -3,7 +3,7 @@
 I'm a passionate **Data Engineer** with expertise in building scalable data pipelines, creating predictive models, and driving insights with data.  
 
 ### 👩‍💻 About Me:
-- 🚀 I specialize in **Pyspark**,**SQL**, **Azure**,**AWS** and **Tableau**.
+- 🚀 I specialize in **Distributed systems**,**Hadoop**,**Linux**,**Apache Spark**,**Hive**,**Ci/Cd**,**Cloud** and **PowerBi**.
 - 🏅 Achievements:
   - Improved diagnostic accuracy by 15% through predictive health modeling at DePaul.
   - Streamlined compliance reporting at TCS, achieving a 30% efficiency boost.
