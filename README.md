@@ -2,6 +2,8 @@
 
 I'm a passionate **Data Engineer** with expertise in building scalable data pipelines, creating predictive models, and driving insights with data.  
 
+“Certified? Nah, I’m Project-Proven!”
+
 ### 👩‍💻 About Me:
 - 🚀 I specialize in **Distributed systems**,**Hadoop**,**Linux**,**Apache Spark**,**Hive**,**Ci/Cd**,**Cloud** and **PowerBi**.
 - 🏅 Achievements:
