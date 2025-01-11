@@ -5,7 +5,7 @@ I'm a passionate **Data Engineer** with expertise in building scalable data pipe
 “Certified? Nah, I’m Project-Proven!”
 
 ### 👩‍💻 About Me:
-- 🚀 I specialize in **Distributed systems**,**Hadoop**,**Linux**,**Apache Spark**,**Hive**,**Ci/Cd**,**Cloud** and **PowerBi**.
+- 🚀 I specialize in **Distributed systems**,**Hadoop**,**Linux**,**Apache Spark**,**Apache Airflow**,**Hive**,**Ci/Cd**,**Cloud** and **PowerBi**.
 - 🏅 Achievements:
   - Improved diagnostic accuracy by 15% through predictive health modeling at DePaul.
   - Streamlined compliance reporting at TCS, achieving a 30% efficiency boost.
