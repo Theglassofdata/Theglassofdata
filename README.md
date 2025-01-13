@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p align="center">
+
   ### 💾 Data Engineering Cartel Rules:
-</p>
+
 
 <p align="center">
 <ul>
