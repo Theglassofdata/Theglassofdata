@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
   </a>
+    <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="43" height="37" alt="Discord" style="filter: invert(1);">
+  </a>
   <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="37" alt="Discord" style="filter: invert(1);">
   </a>
@@ -39,14 +42,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Airflow" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" alt="Flink" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Cloud" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Cloud" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/astronomerio/astronomerio-icon.svg" alt="Astronomer" width="50" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="airflow" width="55" />
+  
 </p>
 
 ---
