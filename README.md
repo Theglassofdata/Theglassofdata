@@ -5,7 +5,7 @@
 <h1 align="center">I am Rahul Raj... ⚡️</h1>
 
 <p align="center">
-  <em>"The human whose name is written in this code shall DEBUG..."</em>
+  <em>"The human whose name is written in this pipeline shall Break & Dead..."</em>
 </p>
 
 <div align="center">
