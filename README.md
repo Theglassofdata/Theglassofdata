@@ -1,7 +1,7 @@
+
 <p align="center">
   <em>"I am not in danger... I AM THE DATA ENGINEER."</em>
 </p>
-
 
 <div align="center">
   <a href="https://postimg.cc/mttsS84X">
@@ -9,15 +9,6 @@
   </a>
 </div>
 
-
-
-<div align="center">
-  <img src="https://external-preview.redd.it/vwnC6rr91s3CvWZpNE0w29XOMly2qVqi1sftcoCMU4Q.gif" width="400" alt="Yo Yo Yo Jesse Pinkman">
-</div>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=The+One+Who+Ingests;Master+of+ETL+Alchemy;Say+My+Name...Data+Engineer!" alt="Typing SVG">
-</a>
 
 ---
 
@@ -43,43 +34,23 @@
 
 <h3 align="center">『 DATA FORMULA LAB 』</h3>
 
-<details>
-<summary>🧪 Data Engineering Ingredients</summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Airflow" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" alt="Flink" width="50" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Cloud" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Cloud" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/astronomerio/astronomerio-icon.svg" alt="Astronomer" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" />
 </p>
-</details>
-
-<details>
-<summary>🔬 Data Tools & Compounds</summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Airflow" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="40">
-</p>
-</details>
-
-<details>
-<summary>⚙️ Deployment Lab</summary>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS">
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40">
-</p>
-</details>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theglassofdata&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak Stats">
-</div>
-
-<div align="center">
   <em>"Yeah...Science! Say my name... *The Glass of Data*"</em>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/QgAxjCT.gif" width="800" height="100" alt="Breaking Bad Footer">
 </div>
