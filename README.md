@@ -1,28 +1,31 @@
+<div align="center">
+  <img src="https://i.imgur.com/wqYw9FN.png" width="800" height="200" alt="Breaking Bad Header">
+</div>
 
-<h1 align="center">I am Rahul Raj... ⚡️</h1>
+<h1 align="center">I am Rahul Raj... 💊</h1>
 
 <p align="center">
-  <em>"The human whose name is written in pipeline shall Break & Dead..."</em>
+  <em>"I am not in Danger... I AM THE Data Engineer."</em>
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/66hXhDZ3/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif" width="350" align="right" alt="Death Note Shinigami">
+  <img src="https://media.giphy.com/media/QUu83Lyt0tBu8/giphy.gif" width="350" align="right" alt="Breaking Bad Chemistry">
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Death+Note&size=25&duration=3000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=435&lines=Kira+of+Data+Engineering;The+Code+Shinigami;I+Take+A+Byte...And+DEBUG+IT!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Atomic+Age&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=The+One+Who+Codes;I+Make+Solutions+...;...Not+Excuses!" alt="Typing SVG">
 </a>
 
 ---
 
-### 📓 Death Note Rules:
-- 🖊️ Currently writing **Next.js & Three.js** in my Death Note.
-- 💀 My judgements are stored at [The Shinigami Realm](https://github.com/Theglassofdata).
-- 🍎 Send me a message: [youwillgetitboy@gmail.com](mailto:youwillgetitboy@gmail.com).
+### 🧪 Chemistry of Code:
+- ⚗️ Synthesizing **Next.js & Three.js** to engineer perfect products.
+- 🔬 Operating from [My Lab](https://github.com/Theglassofdata) for innovative creations.
+- 💊 Reach out at: [youwillgetitboy@gmail.com](mailto:youwillgetitboy@gmail.com).
 
 ---
 
-<h3 align="center">『 ALLIANCES 』</h3>
+<h3 align="center">『 CARTEL CONNECTIONS 』</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
@@ -37,10 +40,10 @@
 
 ---
 
-<h3 align="center">『 WEAPONS OF JUDGEMENT 』</h3>
+<h3 align="center">『 FORMULA BOOK 』</h3>
 
 <details>
-<summary>🔮 Languages of Death</summary>
+<summary>🧪 Languages & Elements</summary>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">
@@ -50,7 +53,7 @@
 </details>
 
 <details>
-<summary>📜 Scrolls of Knowledge</summary>
+<summary>🔬 Frameworks & Compounds</summary>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40">
@@ -60,7 +63,7 @@
 </details>
 
 <details>
-<summary>⚔️ Tools of Execution</summary>
+<summary>🧪 Lab Equipment</summary>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40">
@@ -72,13 +75,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theglassofdata&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theglassofdata&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak Stats">
 </div>
 
 <div align="center">
-  <em>"All humans will die, but their code lives forever..."</em>
+  <em>"Say my name... *The Glass of Data*"</em>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/7cJWKYF.gif" width="800" height="100" alt="Death Note Footer">
+  <img src="https://i.imgur.com/QgAxjCT.gif" width="800" height="100" alt="Breaking Bad Footer">
 </div>
