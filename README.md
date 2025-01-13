@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&multiline=true&width=435&lines=Welcome+to+my+github!;I'm+Rahul+Raj+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 <h1 align="center">I am Rahul Raj... ☠︎</h1>
 
 <p align="center">
