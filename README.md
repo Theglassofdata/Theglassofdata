@@ -14,8 +14,8 @@
 
 ---
 
-### 🧪 Chemistry of Code:
-- ⚗️ Synthesizing **Next.js & Three.js** to engineer perfect products.
+### 🧪 Chemistry of pipeline:
+- ⚗️ Synthesizing **Kafka & Flink** to engineer perfect products.
 - 🔬 Operating from [My Lab](https://github.com/Theglassofdata) for innovative creations.
 - 💊 Reach out at: [youwillgetitboy@gmail.com](mailto:youwillgetitboy@gmail.com).
 
