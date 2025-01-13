@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/wqYw9FN.png" width="800" height="200" alt="Breaking Bad Header">
-</div>
-
 <h1 align="center">I am Rahul Raj... 💊</h1>
 
 <p align="center">
