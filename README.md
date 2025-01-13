@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Rahul Raj (💻🏊🏹📈) </h1>
+<h3 align="center">A passionate Data Engineer </h3>
+
+<img align="right" src="https://i.postimg.cc/66hXhDZ3/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif' border='0' alt='5f988079-b907-453f-b74b-ad8b43d5c3d9'" alt="coding" width="350">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Nice+to+%22e-see%22+you+here!;I'm+a+Full-Stack+Developer;A+Learner+Explorer+Adventurous+Nomad...." alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://i.imgur.com/XJulTqf.gif" width="800" height="200" alt="death note header">
 </div>
