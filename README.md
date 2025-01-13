@@ -65,6 +65,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Theglassofdata&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theglassofdata&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <em>"Yeah...Science! Say my name... <strong>The Glass of Data</strong>"</em>
-</p>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=%22Yeah...Science!+Say+my+name...+The+Glass+of+Data%22" alt="Typing SVG">
+  </a>
+</div>
+
