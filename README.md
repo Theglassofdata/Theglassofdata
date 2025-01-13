@@ -1,5 +1,11 @@
 <h1 align="center">Yo, Yo, Yo! ETL-E to the E to the T to the L, representing the Pipelines, what up, BIGG DATAA?!</h1>
 
+<div align="center">
+  <a href="https://postimg.cc/mttsS84X">
+    <img src="https://i.postimg.cc/mrWz85h1/giphy.webp" alt="Yo, Yo, Yo Jesse Pinkman GIF" width="400">
+  </a>
+</div>
+
 <p align="center">
   <em>"I am not in danger... I AM THE DATA ENGINEER."</em>
 </p>
@@ -9,7 +15,7 @@
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Atomic+Age&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=The+One+Who+Ingests+Data;Master+of+ETL+Alchemy;Say+My+Name...Data+Engineer!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=The+One+Who+Ingests;Master+of+ETL+Alchemy;Say+My+Name...Data+Engineer!" alt="Typing SVG">
 </a>
 
 ---
@@ -26,9 +32,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
-  </a>
-  <a href="https://stackoverflow.com/users/23191506" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="43" height="37" alt="StackOverflow" style="filter: invert(1);">
   </a>
   <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="37" alt="Discord" style="filter: invert(1);">
