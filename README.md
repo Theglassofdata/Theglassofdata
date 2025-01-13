@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=536&lines=The+One+Who+Ingests;Master+of+ETL+Alchemy;Say+My+Name" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=536&lines=The+One+Who+Ingests;Master+of+ETL+Alchemy;Breaking+Big+Data" alt="Typing SVG">
   </a>
 </p>
 
