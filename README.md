@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&vCenter=true&width=435&lines=%22I+am+not+in+Danger...+I+am+the+Data+Engineer.%22)](https://git.io/typing-svg)
 <h1 align="center">I am Rahul Raj... ☠︎</h1>
 
-<p align="center">
-  <em>"I am not in Danger... I am the Data Engineer."</em>
-</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Atomic+Age&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=The+One+Who+pipelines;I+Make+Solutions+...;...Not+Excuses!" alt="Typing SVG">
