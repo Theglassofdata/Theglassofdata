@@ -63,9 +63,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theglassofdata&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak Stats">
-</div>
 
 <div align="center">
   <em>"Say my name... *The Glass of Data*"</em>
