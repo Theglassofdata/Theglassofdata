@@ -1,28 +1,4 @@
-# Hi, I'm Rahul Raj 👋
-
-I'm a passionate **Data Engineer** with expertise in building scalable data pipelines, creating predictive models, and driving insights with data.  
-
-“Certified? Nah, I’m Project-Proven!”
-
-### 👩‍💻 About Me:
-- 🚀 I specialize in **Distributed systems**,**Hadoop**,**Linux**,**Apache Spark**,**Apache Airflow**,**Hive**,**Ci/Cd**,**Cloud** and **PowerBi**.
-- 🏅 Achievements:
-  - Improved diagnostic accuracy by 15% through predictive health modeling at DePaul.
-  - Streamlined compliance reporting at TCS, achieving a 30% efficiency boost.
-- 🌱 Currently learning **Apache Spark** and **Big Data Tools**.
-- 🎯 My goal: To build data-driven systems that solve real-world problems.
-
-### 🔧 Technologies I Work With:
-- Programming: Python, SQL, R
-- Cloud: Azure, AWS
-- Visualization: Tableau, Power BI
-- Tools: Git,Spark,Hadoop,Hive,CI/CD,Airflow,Kafka
-
-### 🌐 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/rahul-raj-a1703320b/)  
-- [GitHub](https://github.com/Theglassofdata)
-
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7F5EC&background=FFE33F00&center=true&multiline=true&random=true&width=435&lines=Welcome+to+my+github!;I'm+Rahul+Raj)](https://git.io/typing-svg)
 **Theglassofdata/Theglassofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
