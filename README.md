@@ -1,4 +1,7 @@
-<h1 align="center">Yo, Yo, Yo! ETL-E to the E to the T to the L, representing the Pipelines, what up, BIGG DATAA?!</h1>
+<p align="center">
+  <em>"I am not in danger... I AM THE DATA ENGINEER."</em>
+</p>
+
 
 <div align="center">
   <a href="https://postimg.cc/mttsS84X">
@@ -6,9 +9,7 @@
   </a>
 </div>
 
-<p align="center">
-  <em>"I am not in danger... I AM THE DATA ENGINEER."</em>
-</p>
+
 
 <div align="center">
   <img src="https://external-preview.redd.it/vwnC6rr91s3CvWZpNE0w29XOMly2qVqi1sftcoCMU4Q.gif" width="400" alt="Yo Yo Yo Jesse Pinkman">
