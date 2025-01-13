@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/XJulTqf.gif" width="800" height="200" alt="Death Note Header">
-</div>
 
 <h1 align="center">I am Rahul Raj... ⚡️</h1>
 
