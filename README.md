@@ -68,6 +68,3 @@
   <em>"Say my name... *The Glass of Data*"</em>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/QgAxjCT.gif" width="800" height="100" alt="Breaking Bad Footer">
-</div>
