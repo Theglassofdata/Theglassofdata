@@ -33,6 +33,9 @@
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
   </a>
+    <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
+  </a>
   <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="37" alt="Discord" style="filter: invert(1);">
   </a>
