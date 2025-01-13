@@ -1,4 +1,4 @@
-<h1 align="center">I am Rahul Raj... 💊</h1>
+<h1 align="center">I am Rahul Raj... ☠︎</h1>
 
 <p align="center">
   <em>"I am not in Danger... I AM THE Data Engineer."</em>
