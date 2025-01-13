@@ -1,3 +1,6 @@
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&vCenter=true&width=435&lines=%22I+am+not+in+Danger...+I+am+the+Data+Engineer.%22)](https://git.io/typing-svg)
  <h1 align="center">I am Rahul Raj... ☠︎</h1>
 
