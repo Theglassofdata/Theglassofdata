@@ -8,7 +8,6 @@
   </a>
 </p>
 
--------------------------------------------------------------------------------------------------
   ### 💾 Data Engineering Cartel Rules:
 
 
@@ -21,7 +20,6 @@
 </ul>
 </p>
 
--------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=536&lines=The+One+Who+Ingests;Master+of+ETL+Alchemy;Breaking+Big+Data" alt="Typing SVG">
@@ -70,7 +68,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=%22Yeah...Science!+Say+my+name...+The+Glass+of+Data%22" alt="Typing SVG">
+<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=You+know+the+business+I+know+the+skills+...lets+cook+together!" alt= "typing-svg">
   </a>
 </div>
-
