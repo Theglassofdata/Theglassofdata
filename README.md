@@ -55,6 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hive/hive-original.svg" alt="Hive" width="55" />
 </p>
 
 # 💊 Tech Stash                 tight tight tight ..........
