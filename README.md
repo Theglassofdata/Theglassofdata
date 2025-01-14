@@ -68,6 +68,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=You+know+the+business+I+know+the+skills+...lets+cook+together!" alt= "typing-svg">
+<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=13&duration=3500&pause=600&color=7978739C&background=FFE33F00&center=true&vCenter=true&width=536&lines=You+know+the+business+I+know+the+skills+...lets+cook+together!" alt= "typing-svg">
   </a>
 </div>
