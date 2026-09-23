@@ -29,7 +29,7 @@
 <h3 align="center">『 CARTEL CONNECTIONS 』</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-raj-a1703320b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="LinkedIn" style="filter: invert(1);">
   </a>
     <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
